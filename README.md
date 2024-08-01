@@ -8,7 +8,7 @@ I'm **@DevAnsH1530** – a passionate **Full Stack Developer** and **Software De
 - 💬 **Let's Collaborate**: Open to Backend projects using Spring Boot or Express.js
 
 ### 📄 My Resume
-- 📝 [View My Resume](link_to_your_resume) 📄
+- 📝 [View My Resume](https://github.com/DevAnsH1530/DevAnsH1530/blob/main/DevanshGupta_Fresher_24.pdf) 📄
 
 ### 🌐 Let's Connect and Collaborate!
 - 🚀 Always eager to work on exciting projects and exchange knowledge.

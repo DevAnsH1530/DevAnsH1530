@@ -1,10 +1,26 @@
-- 👋 Hi GitHub fam, I’m @DevAnsH1530
-- 👀 I’m interested in Software Development and Full Stack Development.
-- 🌱 I’m currently learning MERN.
-- 💞️ I’m looking to collaborate on Backend projects developed in Spring Boot || Express.js
-- 📫 You can reach me through Devanshgupta1947@gmail.com || +91 989-7854-777 or can visit my LinkedIn profile https://www.linkedin.com/in/devansh-s-gupta/
-- 😄 Pronouns: Him
-<!--- ⚡ Fun fact: ...
-DevAnsH1530/DevAnsH1530 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hello, GitHub Fam!
+
+I'm **@DevAnsH1530** – a passionate **Full Stack Developer** and **Software Developer**.
+
+### 🔍 About Me
+- 👀 **Interests**: Full Stack Development, Software Development, 
+- 🌱 **Currently Learning**: MERN Stack (MongoDB, Express.js, React, Node.js)
+- 💬 **Let's Collaborate**: Open to Backend projects using Spring Boot or Express.js
+
+### 📄 My Resume
+- 📝 [View My Resume](link_to_your_resume) 📄
+
+### 🌐 Let's Connect and Collaborate!
+- 🚀 Always eager to work on exciting projects and exchange knowledge.
+- 🤝 Open to contributing to open-source projects, brainstorming new ideas, and learning from each other.
+- 💬 Feel free to reach out for collaboration, questions, or just a friendly chat.
+
+### 📬 Contact Me
+- 📧 Email: Devanshgupta1947@gmail.com
+- 📱 Phone: +91 989-7854-777
+- 💼 LinkedIn: [Devansh S Gupta](https://www.linkedin.com/in/devansh-s-gupta/)
+
+### 🌟 Fun Facts
+- 😄 **Pronouns**: He/Him
+
+Looking forward to connecting and creating amazing things together!
